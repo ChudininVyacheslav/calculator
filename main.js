@@ -2,7 +2,7 @@ function sum(a, b) {
   return a + b;
 }
 
-function subtractionf(a, b) {
+function subtraction(a, b) {
   return a - b;
 }
 
